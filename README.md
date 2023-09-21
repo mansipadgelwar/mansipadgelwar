@@ -5,11 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/mansipadgelwar" target="blank"><img src="https://img.shields.io/twitter/follow/mansipadgelwar?logo=twitter&style=for-the-badge" alt="mansipadgelwar" /></a> </p>
 
-- 🔭 I’m currently working on [MyPomodoro](https://github.com/mansipadgelwar/mypomodoro)
+- 🔭 In-depth knowledge of Javascript, CSS, HTML, ES6+ features, and front-end languages
+Thorough understanding of React.js, ReactNative, and its core principles
+Experience with popular React.js workflows (such as Flux or Redux)
+Familiarity with newer specifications of EcmaScript
+Experience in integrating RESTful Web APIs in Web Applications.
+Experience in successful deployment of apps on the App Store and Play Store.
+Knowledge of frontend technologies like Firebase and Sentry.
 
-- 🌱 I’m currently learning **Web Development**
-
-- 💬 Ask me about **reactJS, Javascript and Typescript**
+- 💬 Ask me about **ReactJS, NextJS, ReactNative Javascript and Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
